@@ -2,7 +2,7 @@ This repo points to the resources used in a Roomiebot solution.
 
 Pease clone this repo and run 
  
- $git submodule init:
+ **$git submodule init**
 
 ## Private propietary repos from Roomie It
 
@@ -33,12 +33,17 @@ https://github.com/gerava/rosbridge_suite.git
 
 ## External repos built and used with the robot
 
-git submodule add https://github.com/Kigs-mx/hikvision_ros.git &&
-git submodule add https://github.com/YDLIDAR/ydlidar_ros.git &&
-git submodule add https://github.com/IntelRealSense/realsense-ros.git &&
-git submodule add https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git &&
-git submodule add https://github.com/bmellink/IBusBM.git &&
-git submodule add https://github.com/SyrianSpock/realsense_gazebo_plugin.git 
+ https://github.com/Kigs-mx/hikvision_ros.git &&
+
+ https://github.com/YDLIDAR/ydlidar_ros.git &&
+
+ https://github.com/IntelRealSense/realsense-ros.git &&
+
+ https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git &&
+
+ https://github.com/bmellink/IBusBM.git &&
+
+ https://github.com/SyrianSpock/realsense_gazebo_plugin.git 
 
 ## ROS Packages nstalled from binaries (after ROS full desktop installation):
 
