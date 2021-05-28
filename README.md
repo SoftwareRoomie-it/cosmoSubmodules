@@ -28,7 +28,9 @@ develop*
 ## External repos with custom changes from Roomie It
 
 https://github.com/SoftwareRoomie-it/mqtt_bridge.git  python2.7*
+
 https://github.com/Kigs-mx/ros_openvino.git	develop*
+
 https://github.com/gerava/rosbridge_suite.git
 
 ## External repos built and used with the robot
