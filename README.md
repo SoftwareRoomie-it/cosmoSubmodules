@@ -1,17 +1,27 @@
 This repo points to the resources used in a Roomiebot solution. 
+
 Pease clone this repo and run 
-  $git submodule init:
+ 
+ $git submodule init:
 
 ## Private propietary repos from Roomie It
 
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-movility.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-deploy.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-hardware.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-navigation-control.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-simulation.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-system-manager.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-vision.git &&
-git submodule add https://github.com/SoftwareRoomie-it/roomiebot-voice-user-interface.git
+ https://github.com/SoftwareRoomie-it/roomiebot-movility.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-deploy.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-hardware.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-navigation-control.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-simulation.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-system-manager.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-vision.git &&
+
+ https://github.com/SoftwareRoomie-it/roomiebot-voice-user-interface.git
+
 
 develop*
 
