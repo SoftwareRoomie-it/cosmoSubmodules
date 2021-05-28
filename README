@@ -1,4 +1,4 @@
-Private propietary repos from Roomie It
+## Private propietary repos from Roomie It##
 
 git submodule add https://github.com/SoftwareRoomie-it/roomiebot-movility.git &&
 git submodule add https://github.com/SoftwareRoomie-it/roomiebot-deploy.git &&
@@ -11,13 +11,13 @@ git submodule add https://github.com/SoftwareRoomie-it/roomiebot-voice-user-inte
 
 develop*
 
-External repos with custom changes from Roomie It
+## External repos with custom changes from Roomie It##
 
 https://github.com/SoftwareRoomie-it/mqtt_bridge.git  python2.7*
 https://github.com/Kigs-mx/ros_openvino.git	develop*
 https://github.com/gerava/rosbridge_suite.git
 
-External repos built and used with the robot
+## External repos built and used with the robot
 
 git submodule add https://github.com/Kigs-mx/hikvision_ros.git &&
 git submodule add https://github.com/YDLIDAR/ydlidar_ros.git &&
@@ -26,7 +26,7 @@ git submodule add https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.gi
 git submodule add https://github.com/bmellink/IBusBM.git &&
 git submodule add https://github.com/SyrianSpock/realsense_gazebo_plugin.git 
 
-ROS Packages nstalled from binaries (after ROS full desktop installation):
+## ROS Packages nstalled from binaries (after ROS full desktop installation):##
 
 sudo apt-get install ros-{version}-map-server
 
