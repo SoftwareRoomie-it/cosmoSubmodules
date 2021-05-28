@@ -1,0 +1,51 @@
+[submodule "roomiebot-movility"]
+	path = roomiebot-movility
+	url = https://github.com/SoftwareRoomie-it/roomiebot-movility.git
+[submodule "roomiebot-deploy"]
+	path = roomiebot-deploy
+	url = https://github.com/SoftwareRoomie-it/roomiebot-deploy.git
+[submodule "roomiebot-hardware"]
+	path = roomiebot-hardware
+	url = https://github.com/SoftwareRoomie-it/roomiebot-hardware.git
+[submodule "roomiebot-navigation-control"]
+	path = roomiebot-navigation-control
+	url = https://github.com/SoftwareRoomie-it/roomiebot-navigation-control.git
+[submodule "roomiebot-simulation"]
+	path = roomiebot-simulation
+	url = https://github.com/SoftwareRoomie-it/roomiebot-simulation.git
+[submodule "roomiebot-system-manager"]
+	path = roomiebot-system-manager
+	url = https://github.com/SoftwareRoomie-it/roomiebot-system-manager.git
+[submodule "roomiebot-vision"]
+	path = roomiebot-vision
+	url = https://github.com/SoftwareRoomie-it/roomiebot-vision.git
+[submodule "roomiebot-voice-user-interface"]
+	path = roomiebot-voice-user-interface
+	url = https://github.com/SoftwareRoomie-it/roomiebot-voice-user-interface.git
+[submodule "hikvision_ros"]
+	path = hikvision_ros
+	url = https://github.com/Kigs-mx/hikvision_ros.git
+[submodule "ydlidar_ros"]
+	path = ydlidar_ros
+	url = https://github.com/YDLIDAR/ydlidar_ros.git
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
+[submodule "SparkFun_Bio_Sensor_Hub_Library"]
+	path = SparkFun_Bio_Sensor_Hub_Library
+	url = https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git
+[submodule "IBusBM"]
+	path = IBusBM
+	url = https://github.com/bmellink/IBusBM.git
+[submodule "realsense_gazebo_plugin"]
+	path = realsense_gazebo_plugin
+	url = https://github.com/SyrianSpock/realsense_gazebo_plugin.git
+[submodule "mqtt_bridge"]
+	path = mqtt_bridge
+	url = https://github.com/SoftwareRoomie-it/mqtt_bridge.git
+[submodule "ros_openvino"]
+	path = ros_openvino
+	url = https://github.com/Kigs-mx/ros_openvino.git
+[submodule "rosbridge_suite"]
+	path = rosbridge_suite
+	url = https://github.com/gerava/rosbridge_suite.git
