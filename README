@@ -1,3 +1,7 @@
+This repo points to the resources used in a Roomiebot solution. 
+Pease clone this repo and run 
+  $git submodule init:
+
 ## Private propietary repos from Roomie It
 
 git submodule add https://github.com/SoftwareRoomie-it/roomiebot-movility.git &&
